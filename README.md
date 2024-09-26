@@ -1,16 +1,20 @@
-# android_demo
+# Flutter Tv Demo
 
-A new Flutter project.
 
-## Getting Started
+Welcome to the Android TV App! This application is built using Flutter for Android TV, providing a user-friendly interface to stream videos easily.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Video Streaming**: Watch videos from various sources.
+- **User-Friendly Interface**: Designed specifically for Android TV with easy navigation.
+- **Video Playback Controls**: Control playback speed, rewind, and fast-forward.
+- **Grid View**: View available videos in a grid format.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/nehatanwardev/android_tv_demo.git
+
+![image](https://github.com/user-attachments/assets/da957154-ba0c-4fae-8539-b039cf9dde99)
+
+![image](https://github.com/user-attachments/assets/3ede6044-e3b0-426b-8570-334f3a2de2eb)
